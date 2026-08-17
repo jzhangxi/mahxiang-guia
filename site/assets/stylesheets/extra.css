@@ -1,0 +1,82 @@
+.tile-row {
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin: 1rem 0 1.5rem;
+}
+
+.tile-row img {
+    width: 48px;
+    height: auto;
+    display: block;
+}
+
+.tile-labelled {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    margin-right: 6px;
+}
+
+.tile-labelled span {
+    font-size: 0.8rem;
+}
+
+
+/* Mano completa */
+
+.mahjong-hand {
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 1rem 0 1.5rem;
+}
+
+.tile-group {
+    display: flex;
+    align-items: flex-end;
+    gap: 2px;
+}
+
+.mahjong-hand img {
+    width: 40px;
+    height: auto;
+    display: block;
+}
+
+.gang-summary {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px;
+    margin: 1rem 0 1.5rem;
+}
+
+.gang-card {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.gang-card h3 {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.gang-card .tile-row {
+    margin: 0;
+    flex-wrap: nowrap;
+}
+
+.gang-payment {
+    margin: 0;
+    font-weight: 700;
+}
+
+@media (max-width: 800px) {
+    .gang-summary {
+        grid-template-columns: 1fr;
+    }
+}

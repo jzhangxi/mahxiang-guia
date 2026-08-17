@@ -1,0 +1,20 @@
+site_name: Mahjong de la familia Xiang
+site_description: Reglamento de la variante familiar de Mahjong
+
+theme:
+  name: material
+  language: es
+
+markdown_extensions:
+  - admonition
+
+nav:
+  - Inicio: index.md
+  - Cómo jugar: 01-como-jugar.md
+  - Pong y Gang: 02-pong-y-gang.md
+  - Manos y puntuacion: 03-manos-y-puntuacion.md
+  - Resumen: 04-resumen.md
+  - Consejos y estrategia: 05-consejos-y-estrategia.md
+
+extra_css:
+  - assets/stylesheets/extra.css
