@@ -16,20 +16,18 @@ Esta guía describe exclusivamente **cómo jugamos nosotros**, por lo que alguna
 
 ### 1. Cómo jugar
 
-Todo lo necesario para empezar una partida y entender el desarrollo del juego:
+Todo lo necesario para aprender las reglas básicas y jugar una partida:
 
-- Las fichas.
-- Objetivo del juego.
-- Preparación.
+- Las fichas y la estructura de una mano ganadora.
+- Preparación y elección del primer repartidor.
 - Construcción y apertura del muro.
 - Dirección del juego.
 - Reparto inicial.
-- Turnos y rondas.
+- Desarrollo de los turnos y las rondas.
 - Pong y Gang durante el juego.
 - Seguir la corriente.
-- Mano en espera.
-- Autorrobo.
-- Victoria por descarte.
+- Mano en espera y salidas.
+- Autorrobo y victoria por descarte.
 - Prioridad de la victoria.
 - Una ficha, varias victorias.
 - Final de una mano.
@@ -37,7 +35,7 @@ Todo lo necesario para empezar una partida y entender el desarrollo del juego:
 
 ### 2. Pong y Gang
 
-Las reglas para reclamar fichas y formar grupos:
+Las reglas para reclamar fichas y declarar grupos durante la partida:
 
 - Pong.
 - Gang abierto.
@@ -51,7 +49,7 @@ Las reglas para reclamar fichas y formar grupos:
 
 ### 3. Manos y puntuación
 
-Las diferentes formas de completar una mano ganadora:
+Las diferentes formas de conseguir una mano ganadora y su puntuación:
 
 - Mano normal.
 - Todo tríos.
@@ -67,30 +65,32 @@ Las diferentes formas de completar una mano ganadora:
 - Victoria celestial.
 - Falsa victoria.
 
-Incluye la puntuación correspondiente por **autorrobo** y por **victoria mediante descarte**.
+Para cada mano se explica su estructura, sus condiciones y, cuando corresponde, su puntuación por **autorrobo** y **victoria mediante descarte**.
 
 ### 4. Resumen de partida
 
-Una referencia rápida para consultar durante el juego:
+Una referencia rápida pensada para consultar durante el juego:
 
 - Tabla de manos y puntuaciones.
 - Pagos de los Gang.
-- Multiplicadores de reglas especiales.
+- Reglas especiales y multiplicadores.
+- Seguir la corriente.
 - Falsa victoria.
+- Reglas de redondeo.
 
 ### 5. Consejos y estrategia
 
-Una guía práctica para tomar mejores decisiones durante la mano:
+Una guía para tomar decisiones y adaptar la mano durante la partida:
 
-- Modelo general de juego.
-- Pensar antes de que llegue tu turno.
-- Prioridades iniciales de descarte.
-- Conservar parejas útiles.
+- Cómo conducir la mano hacia una buena espera.
+- Pensar los descartes antes de que llegue tu turno.
+- Prioridades básicas de descarte.
 - Fichas útiles y estructuras flexibles.
-- Construcción de cadenas y múltiples posibilidades.
+- Cadenas largas y reorganización de secuencias.
 - Salidas y copias disponibles.
 - Utilizar la información de la mesa y de tu propia mano.
-- Pong y Gang como decisiones estratégicas.
+- Cuándo hacer Pong.
+- Cuándo declarar Gang.
 - Transicionar entre diferentes tipos de mano.
 - Cuándo perseguir una mano de mayor valor.
 - Ganar rápido como forma de defensa.
