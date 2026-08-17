@@ -77,3 +77,23 @@ Una referencia rápida para consultar durante el juego:
 - Pagos de los Gang.
 - Multiplicadores de reglas especiales.
 - Falsa victoria.
+
+### 5. Consejos y estrategia
+
+Una guía práctica para tomar mejores decisiones durante la mano:
+
+- Modelo general de juego.
+- Pensar antes de que llegue tu turno.
+- Prioridades iniciales de descarte.
+- Conservar parejas útiles.
+- Fichas útiles y estructuras flexibles.
+- Construcción de cadenas y múltiples posibilidades.
+- Salidas y copias disponibles.
+- Utilizar la información de la mesa y de tu propia mano.
+- Pong y Gang como decisiones estratégicas.
+- Transicionar entre diferentes tipos de mano.
+- Cuándo perseguir una mano de mayor valor.
+- Ganar rápido como forma de defensa.
+- Responder a una mano rival peligrosa.
+- Mantener y mejorar una espera.
+- Evaluar el riesgo de los descartes.

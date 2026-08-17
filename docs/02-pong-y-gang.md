@@ -35,9 +35,9 @@ Después del descarte, el juego continúa normalmente desde el jugador que ha re
 Las tres fichas se colocan juntas, **boca arriba y rectas**.
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu7p.png">
-  <img src="/assets/tiles/Mpu7p.png">
-  <img src="/assets/tiles/Mpu7p.png">
+  <img src="../assets/tiles/Mpu7p.png">
+  <img src="../assets/tiles/Mpu7p.png">
+  <img src="../assets/tiles/Mpu7p.png">
 </div>
 
 No es necesario indicar qué jugador proporcionó la ficha.
@@ -110,10 +110,10 @@ Al declararlo:
 Las dos fichas centrales se colocan **boca arriba** y las dos fichas de los extremos **boca abajo**.
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu00.png">
-  <img src="/assets/tiles/Mpu4s.png">
-  <img src="/assets/tiles/Mpu4s.png">
-  <img src="/assets/tiles/Mpu00.png">
+  <img src="../assets/tiles/Mpu00.png">
+  <img src="../assets/tiles/Mpu4s.png">
+  <img src="../assets/tiles/Mpu4s.png">
+  <img src="../assets/tiles/Mpu00.png">
 </div>
 
 !!! note "Ten en cuenta"
@@ -156,10 +156,10 @@ Al declararlo:
 Las tres fichas del Pong permanecen boca arriba y la cuarta ficha añadida se coloca **boca abajo**.
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu6m.png">
-  <img src="/assets/tiles/Mpu6m.png">
-  <img src="/assets/tiles/Mpu6m.png">
-  <img src="/assets/tiles/Mpu00.png">
+  <img src="../assets/tiles/Mpu6m.png">
+  <img src="../assets/tiles/Mpu6m.png">
+  <img src="../assets/tiles/Mpu6m.png">
+  <img src="../assets/tiles/Mpu00.png">
 </div>
 
 !!! note "Ten en cuenta"

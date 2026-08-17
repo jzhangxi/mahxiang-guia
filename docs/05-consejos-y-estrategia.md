@@ -121,8 +121,8 @@ Una **salida** es específicamente una ficha que, estando ya en espera, **comple
 Por ejemplo, si tienes:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
 </div>
 
 un **3 de círculos** y un **6 de círculos** son fichas útiles porque cualquiera de ellos completa una secuencia:
@@ -130,15 +130,15 @@ un **3 de círculos** y un **6 de círculos** son fichas útiles porque cualquie
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu4p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
   </div>
 
 </div>
@@ -169,7 +169,7 @@ Las fichas centrales suelen ser más fáciles de conectar que las fichas situada
 Por ejemplo, un **5 de círculos** aislado:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu5p.png">
 </div>
 
 puede empezar a formar una estructura útil si posteriormente se roba un 3, 4, 5, 6 o 7.
@@ -178,28 +178,28 @@ Por ejemplo:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu7p.png">
   </div>
 
 </div>
@@ -209,7 +209,7 @@ Un 4 o un 6 lo conecta directamente con una ficha consecutiva, mientras que otro
 En cambio, un **1 de círculos**:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu1p.png">
+  <img src="../assets/tiles/Mpu1p.png">
 </div>
 
 tiene menos posibilidades de conexión, ya que no existen fichas por debajo del 1.
@@ -225,8 +225,8 @@ Dos fichas consecutivas situadas en el centro ofrecen bastante flexibilidad.
 Por ejemplo:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
 </div>
 
 pueden completar directamente una secuencia de dos formas diferentes.
@@ -234,17 +234,17 @@ pueden completar directamente una secuencia de dos formas diferentes.
 Robando un **3 de círculos**:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu3p.png">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
 </div>
 
 o robando un **6 de círculos**:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
-  <img src="/assets/tiles/Mpu6p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu6p.png">
 </div>
 
 Por tanto, existen dos **tipos de ficha útiles** que completan directamente esta estructura: el 3 y el 6.
@@ -260,16 +260,16 @@ No todas las estructuras de dos fichas tienen la misma flexibilidad.
 Por ejemplo:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu3p.png">
-  <img src="/assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu5p.png">
 </div>
 
 necesita específicamente un **4 de círculos** para completar directamente la secuencia:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu3p.png">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
 </div>
 
 Si quedan disponibles las cuatro copias del 4, existen hasta **4 fichas útiles** para completar directamente esa secuencia.
@@ -277,15 +277,15 @@ Si quedan disponibles las cuatro copias del 4, existen hasta **4 fichas útiles*
 Por tanto:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
 </div>
 
 ofrece normalmente más posibilidades de desarrollo que:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu3p.png">
-  <img src="/assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu5p.png">
 </div>
 
 Esta diferencia puede ser importante cuando hay que decidir qué estructura conservar y cuál desmontar.
@@ -299,23 +299,23 @@ También importa dónde se encuentran las fichas dentro del palo.
 Por ejemplo:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu1p.png">
-  <img src="/assets/tiles/Mpu2p.png">
+  <img src="../assets/tiles/Mpu1p.png">
+  <img src="../assets/tiles/Mpu2p.png">
 </div>
 
 solo puede completar directamente una secuencia con un **3 de círculos**:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu1p.png">
-  <img src="/assets/tiles/Mpu2p.png">
-  <img src="/assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu1p.png">
+  <img src="../assets/tiles/Mpu2p.png">
+  <img src="../assets/tiles/Mpu3p.png">
 </div>
 
 En cambio:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
 </div>
 
 puede completarse tanto con un 3 como con un 6.
@@ -333,9 +333,9 @@ Una secuencia completa no siempre debe verse como un bloque que ya no puede camb
 Por ejemplo:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
-  <img src="/assets/tiles/Mpu6p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu6p.png">
 </div>
 
 ya forma una secuencia.
@@ -343,10 +343,10 @@ ya forma una secuencia.
 Sin embargo, si posteriormente se roba un **7 de círculos**:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
-  <img src="/assets/tiles/Mpu6p.png">
-  <img src="/assets/tiles/Mpu7p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu6p.png">
+  <img src="../assets/tiles/Mpu7p.png">
 </div>
 
 Aunque `4-5-6` ya formaba una secuencia completa, no significa que esas tres fichas deban quedar fijadas definitivamente como un grupo.
@@ -358,13 +358,13 @@ Por ejemplo:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu7p.png">
   </div>
 
 </div>
@@ -374,13 +374,13 @@ pero también:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu4p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu7p.png">
   </div>
 
 </div>
@@ -401,11 +401,11 @@ Esta flexibilidad se vuelve especialmente importante cuando aparecen varias fich
 Por ejemplo:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
-  <img src="/assets/tiles/Mpu6p.png">
-  <img src="/assets/tiles/Mpu7p.png">
-  <img src="/assets/tiles/Mpu8p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu6p.png">
+  <img src="../assets/tiles/Mpu7p.png">
+  <img src="../assets/tiles/Mpu8p.png">
 </div>
 
 No conviene interpretar inmediatamente esta cadena como una secuencia terminada y dos fichas independientes.
@@ -417,15 +417,15 @@ Diferentes robos pueden permitir reorganizarla.
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu4p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu7p.png">
-    <img src="/assets/tiles/Mpu8p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu8p.png">
   </div>
 
 </div>
@@ -435,15 +435,15 @@ Diferentes robos pueden permitir reorganizarla.
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu7p.png">
-    <img src="/assets/tiles/Mpu8p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu8p.png">
   </div>
 
 </div>
@@ -453,15 +453,15 @@ Diferentes robos pueden permitir reorganizarla.
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7p.png">
-    <img src="/assets/tiles/Mpu8p.png">
-    <img src="/assets/tiles/Mpu9p.png">
+    <img src="../assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu8p.png">
+    <img src="../assets/tiles/Mpu9p.png">
   </div>
 
 </div>
@@ -479,28 +479,28 @@ Supongamos que tenemos:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7s.png">
-    <img src="/assets/tiles/Mpu7s.png">
-    <img src="/assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1z.png">
-    <img src="/assets/tiles/Mpu1z.png">
+    <img src="../assets/tiles/Mpu1z.png">
+    <img src="../assets/tiles/Mpu1z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu7p.png">
-    <img src="/assets/tiles/Mpu8p.png">
+    <img src="../assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu8p.png">
   </div>
 
 </div>
@@ -519,15 +519,15 @@ En esta situación existen **3 salidas**.
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu4p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu7p.png">
-    <img src="/assets/tiles/Mpu8p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu8p.png">
   </div>
 
 </div>
@@ -537,15 +537,15 @@ En esta situación existen **3 salidas**.
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu7p.png">
-    <img src="/assets/tiles/Mpu8p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu8p.png">
   </div>
 
 </div>
@@ -555,15 +555,15 @@ En esta situación existen **3 salidas**.
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7p.png">
-    <img src="/assets/tiles/Mpu8p.png">
-    <img src="/assets/tiles/Mpu9p.png">
+    <img src="../assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu8p.png">
+    <img src="../assets/tiles/Mpu9p.png">
   </div>
 
 </div>
@@ -594,13 +594,13 @@ Esto muestra hasta qué punto las secuencias conectadas pueden producir esperas 
 El mismo principio puede aparecer con cadenas todavía mayores:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu2p.png">
-  <img src="/assets/tiles/Mpu3p.png">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
-  <img src="/assets/tiles/Mpu6p.png">
-  <img src="/assets/tiles/Mpu7p.png">
-  <img src="/assets/tiles/Mpu8p.png">
+  <img src="../assets/tiles/Mpu2p.png">
+  <img src="../assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu6p.png">
+  <img src="../assets/tiles/Mpu7p.png">
+  <img src="../assets/tiles/Mpu8p.png">
 </div>
 
 A medida que aumenta el número de fichas conectadas, pueden aparecer más formas de repartirlas entre secuencias, parejas y otras estructuras.
@@ -656,8 +656,8 @@ Hay que distinguir dos conceptos:
 Por ejemplo, una mano puede estar en espera con estas dos salidas:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu3p.png">
-  <img src="/assets/tiles/Mpu6p.png">
+  <img src="../assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu6p.png">
 </div>
 
 Tiene **2 salidas**: el 3 y el 6.
@@ -672,19 +672,19 @@ Por tanto, aunque existen solamente **2 salidas**, pueden quedar hasta **8 copia
 Ahora supongamos que ya están visibles en la mesa:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu3p.png">
-  <img src="/assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu3p.png">
 
-  <img src="/assets/tiles/Mpu6p.png">
-  <img src="/assets/tiles/Mpu6p.png">
-  <img src="/assets/tiles/Mpu6p.png">
+  <img src="../assets/tiles/Mpu6p.png">
+  <img src="../assets/tiles/Mpu6p.png">
+  <img src="../assets/tiles/Mpu6p.png">
 </div>
 
 La mano sigue teniendo exactamente las mismas **2 salidas**:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu3p.png">
-  <img src="/assets/tiles/Mpu6p.png">
+  <img src="../assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu6p.png">
 </div>
 
 Pero ahora solo pueden quedar:
@@ -726,13 +726,13 @@ Por ejemplo, imagina que tienes estas dos estructuras:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3s.png">
-    <img src="/assets/tiles/Mpu5s.png">
+    <img src="../assets/tiles/Mpu3s.png">
+    <img src="../assets/tiles/Mpu5s.png">
   </div>
 
 </div>
@@ -742,11 +742,11 @@ Ambas necesitan una ficha concreta para completar directamente su secuencia:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu4p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4s.png">
+    <img src="../assets/tiles/Mpu4s.png">
   </div>
 
 </div>
@@ -754,9 +754,9 @@ Ambas necesitan una ficha concreta para completar directamente su secuencia:
 Ahora supongamos que en la mesa ya están visibles tres **4 de círculos**:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu4p.png">
 </div>
 
 De los cuatro 4 de círculos que existen, solo queda **uno fuera de la mesa**.
@@ -766,15 +766,15 @@ En cambio, si todavía no se ha visto ningún 4 de bambú, pueden quedar hasta *
 Por tanto, si necesitas desmontar una de las dos, normalmente tiene más sentido abandonar:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu3p.png">
-  <img src="/assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu5p.png">
 </div>
 
 y conservar:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu3s.png">
-  <img src="/assets/tiles/Mpu5s.png">
+  <img src="../assets/tiles/Mpu3s.png">
+  <img src="../assets/tiles/Mpu5s.png">
 </div>
 
 No porque la estructura de bambú sea mejor por sí misma, sino porque **la información de la mesa indica que tiene más fichas útiles potencialmente disponibles**.
@@ -786,13 +786,13 @@ Por ejemplo, si tienes:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3s.png">
-    <img src="/assets/tiles/Mpu5s.png">
+    <img src="../assets/tiles/Mpu3s.png">
+    <img src="../assets/tiles/Mpu5s.png">
   </div>
 
 </div>
@@ -800,7 +800,7 @@ Por ejemplo, si tienes:
 y ambas estructuras son equivalentes, pero ya hay varios **3 de círculos** entre los descartes, puede ser preferible empezar descartando:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu3p.png">
 </div>
 
 De esta forma se abandona progresivamente la estructura de círculos empezando por una ficha que ya está apareciendo en la mesa.
@@ -837,14 +837,14 @@ Las fichas de tu propia mano también proporcionan información.
 Por ejemplo, imagina que tienes dos **7 de bambú**:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu7s.png">
-  <img src="/assets/tiles/Mpu7s.png">
+  <img src="../assets/tiles/Mpu7s.png">
+  <img src="../assets/tiles/Mpu7s.png">
 </div>
 
 y ya hay otro **7 de bambú** visible entre los descartes:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu7s.png">
+  <img src="../assets/tiles/Mpu7s.png">
 </div>
 
 De las cuatro copias que existen:
@@ -883,13 +883,13 @@ Imagina que tienes, entre otras fichas:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7s.png">
-    <img src="/assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
   </div>
 
 </div>
@@ -897,8 +897,8 @@ Imagina que tienes, entre otras fichas:
 En condiciones normales, la estructura:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
 </div>
 
 es flexible porque puede completar una secuencia con un 3 o un 6.
@@ -908,17 +908,17 @@ Sin embargo, imagina que en la mesa ya están visibles:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu6p.png">
   </div>
 
 </div>
@@ -928,22 +928,22 @@ Ya no queda ningún 3 ni ningún 6 capaz de completar directamente el `4-5`.
 Si otro jugador descarta:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu7s.png">
+  <img src="../assets/tiles/Mpu7s.png">
 </div>
 
 hacer **Pong** permite convertir:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu7s.png">
-  <img src="/assets/tiles/Mpu7s.png">
+  <img src="../assets/tiles/Mpu7s.png">
+  <img src="../assets/tiles/Mpu7s.png">
 </div>
 
 en un grupo completo:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu7s.png">
-  <img src="/assets/tiles/Mpu7s.png">
-  <img src="/assets/tiles/Mpu7s.png">
+  <img src="../assets/tiles/Mpu7s.png">
+  <img src="../assets/tiles/Mpu7s.png">
+  <img src="../assets/tiles/Mpu7s.png">
 </div>
 
 y después descartar el 4 o el 5 de círculos que ha perdido gran parte de su utilidad.
@@ -957,31 +957,31 @@ Ahora imagina que tienes:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu3m.png">
-    <img src="/assets/tiles/Mpu4m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu3m.png">
+    <img src="../assets/tiles/Mpu4m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6s.png">
-    <img src="/assets/tiles/Mpu7s.png">
-    <img src="/assets/tiles/Mpu8s.png">
+    <img src="../assets/tiles/Mpu6s.png">
+    <img src="../assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu8s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2z.png">
-    <img src="/assets/tiles/Mpu2z.png">
+    <img src="../assets/tiles/Mpu2z.png">
+    <img src="../assets/tiles/Mpu2z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7p.png">
-    <img src="/assets/tiles/Mpu8p.png">
+    <img src="../assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu8p.png">
   </div>
 
 </div>
@@ -989,8 +989,8 @@ Ahora imagina que tienes:
 La pareja:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu2z.png">
-  <img src="/assets/tiles/Mpu2z.png">
+  <img src="../assets/tiles/Mpu2z.png">
+  <img src="../assets/tiles/Mpu2z.png">
 </div>
 
 ya cumple una función importante: puede ser la **pareja necesaria para cerrar la mano**.
@@ -998,7 +998,7 @@ ya cumple una función importante: puede ser la **pareja necesaria para cerrar l
 Si otro jugador descarta otro:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu2z.png">
+  <img src="../assets/tiles/Mpu2z.png">
 </div>
 
 puedes hacer Pong, pero hacerlo convertiría tu única pareja en un trío.
@@ -1034,15 +1034,15 @@ Por ejemplo, imagina que dentro de tu mano tienes:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu7p.png">
   </div>
 
 </div>
@@ -1055,18 +1055,18 @@ Las cuatro copias del 5 están presentes, pero actualmente están formando dos e
 Si utilizas los cuatro 5 para declarar un Gang:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu5p.png">
-  <img src="/assets/tiles/Mpu5p.png">
-  <img src="/assets/tiles/Mpu5p.png">
-  <img src="/assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu5p.png">
 </div>
 
 pierdes la secuencia:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu5p.png">
-  <img src="/assets/tiles/Mpu6p.png">
-  <img src="/assets/tiles/Mpu7p.png">
+  <img src="../assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu6p.png">
+  <img src="../assets/tiles/Mpu7p.png">
 </div>
 
 Por tanto, si esas fichas ya forman parte de la estructura que necesitas para completar la mano, puede ser mejor conservarlas que declarar el Gang.
@@ -1082,13 +1082,13 @@ Cuatro fichas iguales pueden utilizarse como dos parejas:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu8s.png">
-    <img src="/assets/tiles/Mpu8s.png">
+    <img src="../assets/tiles/Mpu8s.png">
+    <img src="../assets/tiles/Mpu8s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu8s.png">
-    <img src="/assets/tiles/Mpu8s.png">
+    <img src="../assets/tiles/Mpu8s.png">
+    <img src="../assets/tiles/Mpu8s.png">
   </div>
 
 </div>
@@ -1106,10 +1106,10 @@ Sin embargo, tener las cuatro copias también ofrece una posibilidad de transici
 Si posteriormente decides **abandonar Siete parejas**, puedes declarar esas cuatro fichas como Gang:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu8s.png">
-  <img src="/assets/tiles/Mpu8s.png">
-  <img src="/assets/tiles/Mpu8s.png">
-  <img src="/assets/tiles/Mpu8s.png">
+  <img src="../assets/tiles/Mpu8s.png">
+  <img src="../assets/tiles/Mpu8s.png">
+  <img src="../assets/tiles/Mpu8s.png">
+  <img src="../assets/tiles/Mpu8s.png">
 </div>
 
 De esta forma conviertes las cuatro fichas en un grupo completo y, además, realizas el **robo suplementario del Gang**.
@@ -1140,28 +1140,28 @@ Por ejemplo:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5m.png">
-    <img src="/assets/tiles/Mpu5m.png">
+    <img src="../assets/tiles/Mpu5m.png">
+    <img src="../assets/tiles/Mpu5m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7p.png">
-    <img src="/assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu7p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6s.png">
-    <img src="/assets/tiles/Mpu6s.png">
+    <img src="../assets/tiles/Mpu6s.png">
+    <img src="../assets/tiles/Mpu6s.png">
   </div>
 
 </div>
@@ -1173,15 +1173,15 @@ Si empiezan a aparecer terceras copias, las parejas pueden convertirse en tríos
 Por ejemplo, si otro jugador descarta:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu3p.png">
 </div>
 
 puedes hacer Pong:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu3p.png">
-  <img src="/assets/tiles/Mpu3p.png">
-  <img src="/assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu3p.png">
 </div>
 
 Si decides hacerlo, abandonas la posibilidad de conseguir Siete parejas, pero esa misma estructura empieza a ser útil para **Todo tríos**.
@@ -1191,26 +1191,26 @@ Lo mismo puede ocurrir con las demás parejas:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5m.png">
-    <img src="/assets/tiles/Mpu5m.png">
-    <img src="/assets/tiles/Mpu5m.png">
+    <img src="../assets/tiles/Mpu5m.png">
+    <img src="../assets/tiles/Mpu5m.png">
+    <img src="../assets/tiles/Mpu5m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7p.png">
-    <img src="/assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu7p.png">
   </div>
 
 </div>
@@ -1247,20 +1247,20 @@ Por ejemplo, puedes tener una base como:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2p.png">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu2p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu4p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu7p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu8p.png">
-    <img src="/assets/tiles/Mpu8p.png">
+    <img src="../assets/tiles/Mpu8p.png">
+    <img src="../assets/tiles/Mpu8p.png">
   </div>
 
 </div>
@@ -1276,26 +1276,26 @@ Por ejemplo, si acabas formando:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2p.png">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu4p.png">
+    <img src="../assets/tiles/Mpu2p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu4p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu7p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu8p.png">
-    <img src="/assets/tiles/Mpu8p.png">
+    <img src="../assets/tiles/Mpu8p.png">
+    <img src="../assets/tiles/Mpu8p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3s.png">
-    <img src="/assets/tiles/Mpu4s.png">
-    <img src="/assets/tiles/Mpu5s.png">
+    <img src="../assets/tiles/Mpu3s.png">
+    <img src="../assets/tiles/Mpu4s.png">
+    <img src="../assets/tiles/Mpu5s.png">
   </div>
 
 </div>
@@ -1303,9 +1303,9 @@ Por ejemplo, si acabas formando:
 la secuencia de bambú:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu3s.png">
-  <img src="/assets/tiles/Mpu4s.png">
-  <img src="/assets/tiles/Mpu5s.png">
+  <img src="../assets/tiles/Mpu3s.png">
+  <img src="../assets/tiles/Mpu4s.png">
+  <img src="../assets/tiles/Mpu5s.png">
 </div>
 
 impide conseguir Un solo palo, pero sigue siendo un grupo perfectamente válido para una **Mano normal**.
@@ -1332,20 +1332,20 @@ Por ejemplo, una parte importante de la mano puede estar formada por:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1m.png">
-    <img src="/assets/tiles/Mpu9m.png">
-    <img src="/assets/tiles/Mpu1p.png">
-    <img src="/assets/tiles/Mpu9p.png">
-    <img src="/assets/tiles/Mpu1s.png">
-    <img src="/assets/tiles/Mpu9s.png">
+    <img src="../assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu9m.png">
+    <img src="../assets/tiles/Mpu1p.png">
+    <img src="../assets/tiles/Mpu9p.png">
+    <img src="../assets/tiles/Mpu1s.png">
+    <img src="../assets/tiles/Mpu9s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1z.png">
-    <img src="/assets/tiles/Mpu2z.png">
-    <img src="/assets/tiles/Mpu3z.png">
-    <img src="/assets/tiles/Mpu4z.png">
-    <img src="/assets/tiles/Mpu5z.png">
+    <img src="../assets/tiles/Mpu1z.png">
+    <img src="../assets/tiles/Mpu2z.png">
+    <img src="../assets/tiles/Mpu3z.png">
+    <img src="../assets/tiles/Mpu4z.png">
+    <img src="../assets/tiles/Mpu5z.png">
   </div>
 
 </div>
@@ -1359,23 +1359,23 @@ Imagina que los terminales que todavía necesitas no aparecen y, en cambio, empi
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1z.png">
-    <img src="/assets/tiles/Mpu1z.png">
+    <img src="../assets/tiles/Mpu1z.png">
+    <img src="../assets/tiles/Mpu1z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2z.png">
-    <img src="/assets/tiles/Mpu2z.png">
+    <img src="../assets/tiles/Mpu2z.png">
+    <img src="../assets/tiles/Mpu2z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3z.png">
-    <img src="/assets/tiles/Mpu3z.png">
+    <img src="../assets/tiles/Mpu3z.png">
+    <img src="../assets/tiles/Mpu3z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5z.png">
-    <img src="/assets/tiles/Mpu5z.png">
+    <img src="../assets/tiles/Mpu5z.png">
+    <img src="../assets/tiles/Mpu5z.png">
   </div>
 
 </div>
@@ -1385,18 +1385,18 @@ Esos duplicados ya no ayudan a conseguir nuevos tipos de terminales u honores qu
 Las parejas de honores pueden convertirse posteriormente en Pong:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu1z.png">
-  <img src="/assets/tiles/Mpu1z.png">
-  <img src="/assets/tiles/Mpu1z.png">
+  <img src="../assets/tiles/Mpu1z.png">
+  <img src="../assets/tiles/Mpu1z.png">
+  <img src="../assets/tiles/Mpu1z.png">
 </div>
 
 y, si consigues las cuatro copias, también pueden convertirse en Gang:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu2z.png">
-  <img src="/assets/tiles/Mpu2z.png">
-  <img src="/assets/tiles/Mpu2z.png">
-  <img src="/assets/tiles/Mpu2z.png">
+  <img src="../assets/tiles/Mpu2z.png">
+  <img src="../assets/tiles/Mpu2z.png">
+  <img src="../assets/tiles/Mpu2z.png">
+  <img src="../assets/tiles/Mpu2z.png">
 </div>
 
 En ese momento puede tener más sentido empezar a descartar los terminales y aprovechar la concentración de honores:
@@ -1433,23 +1433,23 @@ Por ejemplo, si tienes muchas parejas:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7s.png">
-    <img src="/assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1z.png">
-    <img src="/assets/tiles/Mpu1z.png">
+    <img src="../assets/tiles/Mpu1z.png">
+    <img src="../assets/tiles/Mpu1z.png">
   </div>
 
 </div>
@@ -1467,9 +1467,9 @@ El problema aparece cuando mantener esa estrategia obliga a rechazar demasiadas 
 Por ejemplo, si estás intentando Un solo palo y empiezas a recibir una buena secuencia de otro palo:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu4s.png">
-  <img src="/assets/tiles/Mpu5s.png">
-  <img src="/assets/tiles/Mpu6s.png">
+  <img src="../assets/tiles/Mpu4s.png">
+  <img src="../assets/tiles/Mpu5s.png">
+  <img src="../assets/tiles/Mpu6s.png">
 </div>
 
 puedes descartarla para seguir persiguiendo Un solo palo.
@@ -1505,21 +1505,21 @@ Por ejemplo, si un rival tiene varios grupos expuestos del mismo palo:
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2p.png">
-    <img src="/assets/tiles/Mpu2p.png">
-    <img src="/assets/tiles/Mpu2p.png">
+    <img src="../assets/tiles/Mpu2p.png">
+    <img src="../assets/tiles/Mpu2p.png">
+    <img src="../assets/tiles/Mpu2p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu6p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu9p.png">
-    <img src="/assets/tiles/Mpu9p.png">
-    <img src="/assets/tiles/Mpu9p.png">
+    <img src="../assets/tiles/Mpu9p.png">
+    <img src="../assets/tiles/Mpu9p.png">
+    <img src="../assets/tiles/Mpu9p.png">
   </div>
 
 </div>
@@ -1558,9 +1558,9 @@ Esto puede implicar **desmontar grupos o estructuras que normalmente conservarí
 Por ejemplo, aunque tengas una secuencia completa:
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
-  <img src="/assets/tiles/Mpu6p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu6p.png">
 </div>
 
 puede ser preferible romperla si una de esas fichas parece mucho más segura para descartar que las fichas que te sobran actualmente.

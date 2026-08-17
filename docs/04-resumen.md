@@ -34,10 +34,10 @@ Consulta rápida de manos, puntuaciones y pagos durante una partida.
     <h3>Abierto</h3>
 
     <div class="tile-row">
-      <img src="/assets/tiles/Mpu7p.png">
-      <img src="/assets/tiles/Mpu7p.png">
-      <img src="/assets/tiles/Mpu7p.png">
-      <img src="/assets/tiles/Mpu7p.png">
+      <img src="../assets/tiles/Mpu7p.png">
+      <img src="../assets/tiles/Mpu7p.png">
+      <img src="../assets/tiles/Mpu7p.png">
+      <img src="../assets/tiles/Mpu7p.png">
     </div>
 
     <p class="gang-payment">2 puntos del responsable</p>
@@ -47,10 +47,10 @@ Consulta rápida de manos, puntuaciones y pagos durante una partida.
     <h3>Oculto</h3>
 
     <div class="tile-row">
-      <img src="/assets/tiles/Mpu00.png">
-      <img src="/assets/tiles/Mpu4s.png">
-      <img src="/assets/tiles/Mpu4s.png">
-      <img src="/assets/tiles/Mpu00.png">
+      <img src="../assets/tiles/Mpu00.png">
+      <img src="../assets/tiles/Mpu4s.png">
+      <img src="../assets/tiles/Mpu4s.png">
+      <img src="../assets/tiles/Mpu00.png">
     </div>
 
     <p class="gang-payment">2 puntos de cada rival</p>
@@ -60,10 +60,10 @@ Consulta rápida de manos, puntuaciones y pagos durante una partida.
     <h3>Añadido</h3>
 
     <div class="tile-row">
-      <img src="/assets/tiles/Mpu6m.png">
-      <img src="/assets/tiles/Mpu6m.png">
-      <img src="/assets/tiles/Mpu6m.png">
-      <img src="/assets/tiles/Mpu00.png">
+      <img src="../assets/tiles/Mpu6m.png">
+      <img src="../assets/tiles/Mpu6m.png">
+      <img src="../assets/tiles/Mpu6m.png">
+      <img src="../assets/tiles/Mpu00.png">
     </div>
 
     <p class="gang-payment">1 punto de cada rival</p>

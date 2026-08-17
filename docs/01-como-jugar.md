@@ -13,43 +13,43 @@ Hay tres palos numerados del **1 al 9**:
 ### Caracteres
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu1m.png">
-  <img src="/assets/tiles/Mpu2m.png">
-  <img src="/assets/tiles/Mpu3m.png">
-  <img src="/assets/tiles/Mpu4m.png">
-  <img src="/assets/tiles/Mpu5m.png">
-  <img src="/assets/tiles/Mpu6m.png">
-  <img src="/assets/tiles/Mpu7m.png">
-  <img src="/assets/tiles/Mpu8m.png">
-  <img src="/assets/tiles/Mpu9m.png">
+  <img src="../assets/tiles/Mpu1m.png">
+  <img src="../assets/tiles/Mpu2m.png">
+  <img src="../assets/tiles/Mpu3m.png">
+  <img src="../assets/tiles/Mpu4m.png">
+  <img src="../assets/tiles/Mpu5m.png">
+  <img src="../assets/tiles/Mpu6m.png">
+  <img src="../assets/tiles/Mpu7m.png">
+  <img src="../assets/tiles/Mpu8m.png">
+  <img src="../assets/tiles/Mpu9m.png">
 </div>
 
 ### Círculos
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu1p.png">
-  <img src="/assets/tiles/Mpu2p.png">
-  <img src="/assets/tiles/Mpu3p.png">
-  <img src="/assets/tiles/Mpu4p.png">
-  <img src="/assets/tiles/Mpu5p.png">
-  <img src="/assets/tiles/Mpu6p.png">
-  <img src="/assets/tiles/Mpu7p.png">
-  <img src="/assets/tiles/Mpu8p.png">
-  <img src="/assets/tiles/Mpu9p.png">
+  <img src="../assets/tiles/Mpu1p.png">
+  <img src="../assets/tiles/Mpu2p.png">
+  <img src="../assets/tiles/Mpu3p.png">
+  <img src="../assets/tiles/Mpu4p.png">
+  <img src="../assets/tiles/Mpu5p.png">
+  <img src="../assets/tiles/Mpu6p.png">
+  <img src="../assets/tiles/Mpu7p.png">
+  <img src="../assets/tiles/Mpu8p.png">
+  <img src="../assets/tiles/Mpu9p.png">
 </div>
 
 ### Bambú
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu1s.png">
-  <img src="/assets/tiles/Mpu2s.png">
-  <img src="/assets/tiles/Mpu3s.png">
-  <img src="/assets/tiles/Mpu4s.png">
-  <img src="/assets/tiles/Mpu5s.png">
-  <img src="/assets/tiles/Mpu6s.png">
-  <img src="/assets/tiles/Mpu7s.png">
-  <img src="/assets/tiles/Mpu8s.png">
-  <img src="/assets/tiles/Mpu9s.png">
+  <img src="../assets/tiles/Mpu1s.png">
+  <img src="../assets/tiles/Mpu2s.png">
+  <img src="../assets/tiles/Mpu3s.png">
+  <img src="../assets/tiles/Mpu4s.png">
+  <img src="../assets/tiles/Mpu5s.png">
+  <img src="../assets/tiles/Mpu6s.png">
+  <img src="../assets/tiles/Mpu7s.png">
+  <img src="../assets/tiles/Mpu8s.png">
+  <img src="../assets/tiles/Mpu9s.png">
 </div>
 
 Además, existen **7 tipos de honores**.
@@ -58,19 +58,19 @@ Además, existen **7 tipos de honores**.
 
 <div class="tile-row">
   <div class="tile-labelled">
-    <img src="/assets/tiles/Mpu1z.png">
+    <img src="../assets/tiles/Mpu1z.png">
     <span>Este</span>
   </div>
   <div class="tile-labelled">
-    <img src="/assets/tiles/Mpu2z.png">
+    <img src="../assets/tiles/Mpu2z.png">
     <span>Sur</span>
   </div>
   <div class="tile-labelled">
-    <img src="/assets/tiles/Mpu3z.png">
+    <img src="../assets/tiles/Mpu3z.png">
     <span>Oeste</span>
   </div>
   <div class="tile-labelled">
-    <img src="/assets/tiles/Mpu4z.png">
+    <img src="../assets/tiles/Mpu4z.png">
     <span>Norte</span>
   </div>
 </div>
@@ -79,15 +79,15 @@ Además, existen **7 tipos de honores**.
 
 <div class="tile-row">
   <div class="tile-labelled">
-    <img src="/assets/tiles/Mpu5z.png">
+    <img src="../assets/tiles/Mpu5z.png">
     <span>Blanco</span>
   </div>
   <div class="tile-labelled">
-    <img src="/assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu6z.png">
     <span>Verde</span>
   </div>
   <div class="tile-labelled">
-    <img src="/assets/tiles/Mpu7z.png">
+    <img src="../assets/tiles/Mpu7z.png">
     <span>Rojo</span>
   </div>
 </div>
@@ -111,9 +111,9 @@ Cada grupo puede ser una **secuencia**, un **trío** o un **grupo de cuatro fich
 Tres fichas consecutivas del mismo palo.
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu2m.png">
-  <img src="/assets/tiles/Mpu3m.png">
-  <img src="/assets/tiles/Mpu4m.png">
+  <img src="../assets/tiles/Mpu2m.png">
+  <img src="../assets/tiles/Mpu3m.png">
+  <img src="../assets/tiles/Mpu4m.png">
 </div>
 
 ### Trío
@@ -121,9 +121,9 @@ Tres fichas consecutivas del mismo palo.
 Tres fichas exactamente iguales.
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu7p.png">
-  <img src="/assets/tiles/Mpu7p.png">
-  <img src="/assets/tiles/Mpu7p.png">
+  <img src="../assets/tiles/Mpu7p.png">
+  <img src="../assets/tiles/Mpu7p.png">
+  <img src="../assets/tiles/Mpu7p.png">
 </div>
 
 ### Grupo de cuatro
@@ -131,10 +131,10 @@ Tres fichas exactamente iguales.
 Cuatro fichas exactamente iguales.
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu4s.png">
-  <img src="/assets/tiles/Mpu4s.png">
-  <img src="/assets/tiles/Mpu4s.png">
-  <img src="/assets/tiles/Mpu4s.png">
+  <img src="../assets/tiles/Mpu4s.png">
+  <img src="../assets/tiles/Mpu4s.png">
+  <img src="../assets/tiles/Mpu4s.png">
+  <img src="../assets/tiles/Mpu4s.png">
 </div>
 
 Un grupo de cuatro fichas iguales cuenta como **un único grupo**.
@@ -146,8 +146,8 @@ Más adelante veremos cómo estos grupos pueden declararse como **Gang** durante
 Dos fichas exactamente iguales.
 
 <div class="tile-row">
-  <img src="/assets/tiles/Mpu2z.png">
-  <img src="/assets/tiles/Mpu2z.png">
+  <img src="../assets/tiles/Mpu2z.png">
+  <img src="../assets/tiles/Mpu2z.png">
 </div>
 
 !!! note "Ten en cuenta"

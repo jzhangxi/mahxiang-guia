@@ -24,32 +24,32 @@ No es necesario que todos los grupos sean del mismo tipo: pueden combinarse secu
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu3m.png">
-    <img src="/assets/tiles/Mpu4m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu3m.png">
+    <img src="../assets/tiles/Mpu4m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu6p.png">
-    <img src="/assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu6p.png">
+    <img src="../assets/tiles/Mpu7p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3s.png">
-    <img src="/assets/tiles/Mpu3s.png">
-    <img src="/assets/tiles/Mpu3s.png">
+    <img src="../assets/tiles/Mpu3s.png">
+    <img src="../assets/tiles/Mpu3s.png">
+    <img src="../assets/tiles/Mpu3s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6m.png">
-    <img src="/assets/tiles/Mpu7m.png">
-    <img src="/assets/tiles/Mpu8m.png">
+    <img src="../assets/tiles/Mpu6m.png">
+    <img src="../assets/tiles/Mpu7m.png">
+    <img src="../assets/tiles/Mpu8m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2z.png">
-    <img src="/assets/tiles/Mpu2z.png">
+    <img src="../assets/tiles/Mpu2z.png">
+    <img src="../assets/tiles/Mpu2z.png">
   </div>
 
 </div>
@@ -81,32 +81,32 @@ Los tríos pueden haberse formado con los propios robos o mediante **Pong**.
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7s.png">
-    <img src="/assets/tiles/Mpu7s.png">
-    <img src="/assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6z.png">
-    <img src="/assets/tiles/Mpu6z.png">
-    <img src="/assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu6z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
   </div>
 
 </div>
@@ -133,33 +133,33 @@ Los puntos correspondientes al **Gang se calculan además de la puntuación de l
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7s.png">
-    <img src="/assets/tiles/Mpu7s.png">
-    <img src="/assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6z.png">
-    <img src="/assets/tiles/Mpu6z.png">
-    <img src="/assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu6z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3p.png">
-    <img src="/assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
   </div>
 
 </div>
@@ -186,38 +186,38 @@ No sigue la estructura normal de 4 grupos y 1 pareja.
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1m.png">
-    <img src="/assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu1m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3m.png">
-    <img src="/assets/tiles/Mpu3m.png">
+    <img src="../assets/tiles/Mpu3m.png">
+    <img src="../assets/tiles/Mpu3m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7p.png">
-    <img src="/assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu7p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2s.png">
-    <img src="/assets/tiles/Mpu2s.png">
+    <img src="../assets/tiles/Mpu2s.png">
+    <img src="../assets/tiles/Mpu2s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu8s.png">
-    <img src="/assets/tiles/Mpu8s.png">
+    <img src="../assets/tiles/Mpu8s.png">
+    <img src="../assets/tiles/Mpu8s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5z.png">
-    <img src="/assets/tiles/Mpu5z.png">
+    <img src="../assets/tiles/Mpu5z.png">
+    <img src="../assets/tiles/Mpu5z.png">
   </div>
 
 </div>
@@ -239,35 +239,35 @@ Las cuatro fichas iguales cuentan como **2 parejas** y permanecen en la mano: **
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1m.png">
-    <img src="/assets/tiles/Mpu1m.png">
-    <img src="/assets/tiles/Mpu1m.png">
-    <img src="/assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu1m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3m.png">
-    <img src="/assets/tiles/Mpu3m.png">
+    <img src="../assets/tiles/Mpu3m.png">
+    <img src="../assets/tiles/Mpu3m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7p.png">
-    <img src="/assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu7p.png">
+    <img src="../assets/tiles/Mpu7p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2s.png">
-    <img src="/assets/tiles/Mpu2s.png">
+    <img src="../assets/tiles/Mpu2s.png">
+    <img src="../assets/tiles/Mpu2s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5z.png">
-    <img src="/assets/tiles/Mpu5z.png">
+    <img src="../assets/tiles/Mpu5z.png">
+    <img src="../assets/tiles/Mpu5z.png">
   </div>
 
 </div>
@@ -291,32 +291,32 @@ Cada grupo de cuatro fichas iguales cuenta como **2 parejas** y ninguno se decla
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1m.png">
-    <img src="/assets/tiles/Mpu1m.png">
-    <img src="/assets/tiles/Mpu1m.png">
-    <img src="/assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu1m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3m.png">
-    <img src="/assets/tiles/Mpu3m.png">
+    <img src="../assets/tiles/Mpu3m.png">
+    <img src="../assets/tiles/Mpu3m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7s.png">
-    <img src="/assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6z.png">
-    <img src="/assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu6z.png">
   </div>
 
 </div>
@@ -341,31 +341,31 @@ Por tanto, los cuatro grupos están ya expuestos sobre la mesa y el jugador qued
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu2m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
-    <img src="/assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
+    <img src="../assets/tiles/Mpu5p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7s.png">
-    <img src="/assets/tiles/Mpu7s.png">
-    <img src="/assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
+    <img src="../assets/tiles/Mpu7s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6z.png">
-    <img src="/assets/tiles/Mpu6z.png">
-    <img src="/assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu6z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3p.png">
+    <img src="../assets/tiles/Mpu3p.png">
   </div>
 
 </div>
@@ -393,32 +393,32 @@ La mano puede estar **abierta o cerrada**. La diferencia está en su puntuación
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1m.png">
-    <img src="/assets/tiles/Mpu2m.png">
-    <img src="/assets/tiles/Mpu3m.png">
+    <img src="../assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu2m.png">
+    <img src="../assets/tiles/Mpu3m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3m.png">
-    <img src="/assets/tiles/Mpu4m.png">
-    <img src="/assets/tiles/Mpu5m.png">
+    <img src="../assets/tiles/Mpu3m.png">
+    <img src="../assets/tiles/Mpu4m.png">
+    <img src="../assets/tiles/Mpu5m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6m.png">
-    <img src="/assets/tiles/Mpu6m.png">
-    <img src="/assets/tiles/Mpu6m.png">
+    <img src="../assets/tiles/Mpu6m.png">
+    <img src="../assets/tiles/Mpu6m.png">
+    <img src="../assets/tiles/Mpu6m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7m.png">
-    <img src="/assets/tiles/Mpu8m.png">
-    <img src="/assets/tiles/Mpu9m.png">
+    <img src="../assets/tiles/Mpu7m.png">
+    <img src="../assets/tiles/Mpu8m.png">
+    <img src="../assets/tiles/Mpu9m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5m.png">
-    <img src="/assets/tiles/Mpu5m.png">
+    <img src="../assets/tiles/Mpu5m.png">
+    <img src="../assets/tiles/Mpu5m.png">
   </div>
 
 </div>
@@ -451,38 +451,38 @@ Durante la mano se pueden seguir realizando **Pong y Gang** normalmente, siempre
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1z.png">
-    <img src="/assets/tiles/Mpu1z.png">
+    <img src="../assets/tiles/Mpu1z.png">
+    <img src="../assets/tiles/Mpu1z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu2z.png">
-    <img src="/assets/tiles/Mpu2z.png">
-    <img src="/assets/tiles/Mpu2z.png">
+    <img src="../assets/tiles/Mpu2z.png">
+    <img src="../assets/tiles/Mpu2z.png">
+    <img src="../assets/tiles/Mpu2z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu3z.png">
+    <img src="../assets/tiles/Mpu3z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu4z.png">
-    <img src="/assets/tiles/Mpu4z.png">
+    <img src="../assets/tiles/Mpu4z.png">
+    <img src="../assets/tiles/Mpu4z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5z.png">
-    <img src="/assets/tiles/Mpu5z.png">
-    <img src="/assets/tiles/Mpu5z.png">
+    <img src="../assets/tiles/Mpu5z.png">
+    <img src="../assets/tiles/Mpu5z.png">
+    <img src="../assets/tiles/Mpu5z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu6z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu7z.png">
-    <img src="/assets/tiles/Mpu7z.png">
+    <img src="../assets/tiles/Mpu7z.png">
+    <img src="../assets/tiles/Mpu7z.png">
   </div>
 
 </div>
@@ -527,35 +527,35 @@ Si están presentes los 13 tipos diferentes pero todavía no existe una pareja, 
 <div class="mahjong-hand">
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1m.png">
-    <img src="/assets/tiles/Mpu9m.png">
+    <img src="../assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu9m.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1p.png">
-    <img src="/assets/tiles/Mpu9p.png">
+    <img src="../assets/tiles/Mpu1p.png">
+    <img src="../assets/tiles/Mpu9p.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1s.png">
-    <img src="/assets/tiles/Mpu9s.png">
+    <img src="../assets/tiles/Mpu1s.png">
+    <img src="../assets/tiles/Mpu9s.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1z.png">
-    <img src="/assets/tiles/Mpu2z.png">
-    <img src="/assets/tiles/Mpu3z.png">
-    <img src="/assets/tiles/Mpu4z.png">
+    <img src="../assets/tiles/Mpu1z.png">
+    <img src="../assets/tiles/Mpu2z.png">
+    <img src="../assets/tiles/Mpu3z.png">
+    <img src="../assets/tiles/Mpu4z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu5z.png">
-    <img src="/assets/tiles/Mpu6z.png">
-    <img src="/assets/tiles/Mpu7z.png">
+    <img src="../assets/tiles/Mpu5z.png">
+    <img src="../assets/tiles/Mpu6z.png">
+    <img src="../assets/tiles/Mpu7z.png">
   </div>
 
   <div class="tile-group">
-    <img src="/assets/tiles/Mpu1m.png">
+    <img src="../assets/tiles/Mpu1m.png">
   </div>
 
 </div>
